@@ -1,0 +1,26 @@
+{
+  "name": "essentials",
+  "displayName": "Essentials",
+  "description": "Language agnostic, essential extensions to make development within vscode easier and more delightful",
+  "version": "0.0.1",
+  "icon": "icon.png",
+  "publisher": "bradenwatkins",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "christian-kohler.path-intellisense",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "davidbabel.vscode-simpler-icons",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "nikitaKunevich.snippet-creator",
+    "Shan.code-settings-sync",
+    "streetsidesoftware.code-spell-checker",
+    "Tyriar.sort-lines",
+    "wix.vscode-import-cost"
+  ]
+}
