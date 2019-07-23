@@ -2,6 +2,9 @@
   "name": "essentials",
   "displayName": "Essentials",
   "description": "Language agnostic, essential extensions to make development within vscode easier and more delightful",
+  "repository": {
+    "url": "github.com/bradenwatkins/vscode-essentials"
+  },
   "version": "0.0.1",
   "icon": "icon.png",
   "publisher": "bradenwatkins",
