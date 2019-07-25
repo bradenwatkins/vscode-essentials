@@ -15,14 +15,15 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "christian-kohler.path-intellisense",
-    "CoenraadS.bracket-pair-colorizer-2",
-    "davidbabel.vscode-simpler-icons",
+    "dunstontc.dark-plus-syntax",
     "eamodio.gitlens",
+    "IBM.output-colorizer",
+    "ionutvmi.path-autocomplete",
     "esbenp.prettier-vscode",
-    "nikitaKunevich.snippet-creator",
     "Shan.code-settings-sync",
+    "nikitaKunevich.snippet-creator",
+    "Tyriar.sort-lines",
     "streetsidesoftware.code-spell-checker",
-    "Tyriar.sort-lines"
+    "davidbabel.vscode-simpler-icons"
   ]
 }
