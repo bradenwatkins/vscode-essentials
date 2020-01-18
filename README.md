@@ -1,4 +1,4 @@
-# Essentials
+# [Essentials](https://marketplace.visualstudio.com/items?itemName=bradenwatkins.essentials)
 
 An extension pack that contains all of the vscode extensions that I prefer to use to make vscode a delightful editor.
 
